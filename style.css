@@ -1,0 +1,14 @@
+*{margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+
+}
+.wrapper{
+      margin: 120px auto;
+      max-width: 400px;
+      width: 100%;
+      background: rgb(143, 10, 232); ;
+      border-radius: 5px;
+      padding: 25px;
+}
